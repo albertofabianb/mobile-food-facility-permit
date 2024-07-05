@@ -30,7 +30,7 @@ For this version of Laravel (11.9) the minimum version of PHP has to be 8.2.
 
 For the setup, do the following:
 
-- Import the csv field provided to a mysql database.
+- Import the csv field provided (https://github.com/peck/engineering-assessment) to a mysql database.
 - Configure the DB connection in the '.env' file.
 - Clone the repository.
 - Run composer install (composer is needed).
