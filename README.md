@@ -21,6 +21,7 @@ If I had more time I would do:
 - Tokens for secure data access.
 - Authentication, but due to this project is based in open data it won't be needed.
 - Column sorting in the main grid.
+- Comments in the code.
 - A better front end design.
 - Implementation of the repository pattern.
 - I could also implement APIs
